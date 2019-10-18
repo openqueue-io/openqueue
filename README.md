@@ -1,2 +1,2 @@
 # openqueue
-The main repo which include introduction, roadmap, architecture design of openqueue.
+An independent current-limiting queuing system which gives C100K capability to any web application.
