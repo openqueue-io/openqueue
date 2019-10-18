@@ -1,2 +1,2 @@
 # openqueue
-A cloud-based queuing system which enable C10M capability for any web application.
+A cloud-based queuing system which enable C1000K capability for any web application.
