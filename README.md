@@ -1,2 +1,2 @@
 # openqueue
-An independent current-limiting queuing system which gives C100K capability to any web application.
+A cloud-based current-limiting queuing system which enable C10M capability for any web application.
